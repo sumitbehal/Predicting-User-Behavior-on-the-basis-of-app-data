@@ -3,4 +3,4 @@
 
 The app development team has asked me to take some data from the app and extract some meaning from it. They were also interested in trying to possibly predict user behavior based on the usage data in the data they provided. For any given user, they want to see if they can use a snapshot of what that person has done at this particular time and predict what they are doing.
 
-The data is provided in the data directory as train.csv and test.csv, so do what you will with this dataset to address the request of the app development team. Good luck and have fun!
+The data is provided in the data directory as train.csv and test.csv, 
